@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'rtm-icon';
-  src:  url('../fonts/rtm-icon.eot?wie7tl');
-  src:  url('../fonts/rtm-icon.eot?wie7tl#iefix') format('embedded-opentype'),
-    url('../fonts/rtm-icon.ttf?wie7tl') format('truetype'),
-    url('../fonts/rtm-icon.woff?wie7tl') format('woff'),
-    url('../fonts/rtm-icon.svg?wie7tl#rtm-icon') format('svg');
+  src:  url('https://adityamishra114.github.io/shivshakti//wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon.eot?wie7tl');
+  src:  url('https://adityamishra114.github.io/shivshakti//wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon.eot?wie7tl#iefix') format('embedded-opentype'),
+    url('https://adityamishra114.github.io/shivshakti//wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon.ttf?wie7tl') format('truetype'),
+    url('https://adityamishra114.github.io/shivshakti//wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon.woff?wie7tl') format('woff'),
+    url('https://adityamishra114.github.io/shivshakti//wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon.svg?wie7tl#rtm-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
